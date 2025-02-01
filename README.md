@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/kkthevirus/kkthevirus/refs/heads/main/image/hacker.webp" width="10%" height="10%" alt="Matrix Hacker GIF" style="display: block; margin: 0 auto;">
+<img src="https://raw.githubusercontent.com/kkthevirus/kkthevirus/refs/heads/main/image/hacker.webp" width="100%"  alt="Matrix Hacker GIF" style="display: block; margin: 0 auto;">
 
 
 ## 🚀 About Me:
