@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://i.imgur.com/ZoNf6kK.gif" width="100%" alt="Hacker GIF">
+<img src="https://i.gifer.com/V4a.gif" width="100%" alt="Matrix Hacker GIF">
 
 ## 🚀 About Me:
 ```sh
@@ -26,14 +26,14 @@
 ---
 
 ## 🔥 My GitHub Stats:
-<p align="center" style="background-color:black; padding:20px; border-radius:10px;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kkthevirus&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=09F700&icon_color=09F700">
 </p>
 
 ---
 
 ## 🌐 Connect with Me:
-<p align="center" style="background-color:black; padding:20px; border-radius:10px;">
+<p align="center">
 <a href="https://linkedin.com/in/kkthevirus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/kkthevirus"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://github.com/kkthevirus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -46,3 +46,4 @@
 > sudo echo "Hack The Planet!"
 > sudo chmod +x my_brain.sh
 > ./my_brain.sh --execute
+```
