@@ -26,16 +26,18 @@
 ---
 
 ## 🔥 My GitHub Stats:
-<p align="center">
+<p align="center" style="background-color:black; padding:20px; border-radius:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=kkthevirus&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=09F700&icon_color=09F700">
 </p>
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kkthevirus) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kkthevirus)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkthevirus)
+<p align="center" style="background-color:black; padding:20px; border-radius:10px;">
+<a href="https://linkedin.com/in/kkthevirus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/kkthevirus"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://github.com/kkthevirus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
@@ -44,5 +46,3 @@
 > sudo echo "Hack The Planet!"
 > sudo chmod +x my_brain.sh
 > ./my_brain.sh --execute
-
-
