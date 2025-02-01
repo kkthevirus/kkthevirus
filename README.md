@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://i.gifer.com/V4a.gif" width="100%" alt="Matrix Hacker GIF">
+<img src="https://i.gifer.com/V4a.gif" width="10%" height="10%" alt="Matrix Hacker GIF">
 
 ## 🚀 About Me:
 ```sh
