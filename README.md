@@ -51,7 +51,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkthevirus)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanhaiya-lal-kumawat-65516b307/)  
-[![Instagram](https://img.shields.io/badge/@pachuhacks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kk8.93)
+[![Instagram](https://img.shields.io/badge/@kanhaiya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kk8.93)
 
 ---
 
