@@ -24,13 +24,13 @@
 
 ---
 
-👨‍💻 About Me
-💻 I live in the terminal and thrive in dev environments.
-⚔️ Bug bounty aspirant, hunting 0-day logic flaws.
-👨‍💻 Also building full-stack apps with powerful UIs and secure APIs.
-🔐 Believe in: Try Harder, Hack Smart, Code Clean, Stay Anonymous.
-🚀 Mission: Secure the web, one payload & one pixel at a time.
+## 👨‍💻 About Me
 
+- 💻 I live in the terminal.
+- ⚔️ Bug bounty aspirant, hunting `0-day` logic flaws.
+- 👨‍💻 Also building full-stack apps with powerful UIs and secure APIs.
+- 🔐 Believe in: `Try Harder`, `Hack Smart`, `Stay Anonymous`.
+- 🚀 Mission: Secure the web, one payload at a time.
 
 ---
 
