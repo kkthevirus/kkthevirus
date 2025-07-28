@@ -1,57 +1,66 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=09F700&background=000000&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I+am+a+Cybersecurity+Enthusiast+%F0%9F%94%90;Welcome+to+My+Dark+Zone!+%F0%9F%92%A1)
-
----
-
-<img src="https://raw.githubusercontent.com/kkthevirus/kkthevirus/refs/heads/main/image/hacker.webp" width="100%"  alt="Matrix Hacker GIF" style="display: block; margin: 0 auto;">
-
-
-## 🚀 About Me:
-```sh
-> WHOAMI
-🔹 Name: Kanhaiya Lal Kumawat
-🔹 Cybersecurity Enthusiast | Ethical Hacker
-🔹 Security Analyst Level 2 Aspirant
-🔹 Passion for AI Privacy & Ethical Hacking
-```
-
----
-
-## 🛠️ Tech Stack:
-```sh
-> CAT tools.txt
-🔹 Programming: Python, Bash, JavaScript
-🔹 CyberSec: Nmap, Metasploit, Burp Suite, Wireshark
-🔹 OS: Kali Linux, Parrot OS, Windows
-```
-
----
-
-## 🔥 My GitHub Stats:
+<h1 align="center">Hey, I'm <span style="color:#00ff00;">Pachu Ram</span> 👾</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkthevirus&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=09F700&icon_color=09F700">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Security+Enthusiast+%F0%9F%92%BB;Always+in+Terminal+Mode+%F0%9F%94%8E;Learning+%3E+Sleeping+%F0%9F%A4%96;Rooting+Everyday+Life+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌐 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/kanhaiya-lal-kumawat-65516b307">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/kkthevirus">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/kk8.93">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
+```
+🔐 Entering the Matrix...
+```
 
+```bash
+> whoami
+🧠 Cybersecurity Learner | 🕵️ Ethical Hacker | ⚡ Terminal Addict
+```
+
+```bash
+> skills --list
+🛡️ VAPT • 🐍 Python • 🧱 Burp Suite • 🕳️ OWASP • 📟 Nmap • 💣 Metasploit • 📶 Wireshark
+```
+
+```bash
+> status
+📡 Currently pwning boxes and learning exploits...
+```
 
 ---
 
-## 🕶️ Hacker Vibes:
-```sh
-> sudo echo "Hack The Planet!"
-> sudo chmod +x my_brain.sh
-> ./my_brain.sh --execute
-```
+## 👨‍💻 About Me
+
+- 💻 I live in the terminal.
+- ⚔️ Bug bounty aspirant, hunting `0-day` logic flaws.
+- 🔐 Believe in: `Try Harder`, `Hack Smart`, `Stay Anonymous`.
+- 🚀 Mission: Secure the web, one payload at a time.
+
+---
+
+## 🧰 My Arsenal
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![BurpSuite](https://img.shields.io/badge/-Burp_Suite-orange?style=flat&logo=burp-suite)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-16468a?style=flat&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0f0f0f?style=flat)
+
+---
+
+## 🔗 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Instagram](https://img.shields.io/badge/@pachuhacks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pachuhacks)
+
+---
+
+## 🧠 Fun Fact
+
+> "I don’t hack for fame, I hack to learn. Rooting is just the beginning..."  
+> — Pachu Ram aka `sudo_root`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical">
+</p>
